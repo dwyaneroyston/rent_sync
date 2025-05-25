@@ -1,6 +1,6 @@
 # Rent Sync
 
-Rent Sync is a Flutter app that connects tenants and landlords for managing service and repair requests efficiently. It uses Firebase Authentication and Firestore as the backend.
+Rent Sync is a powerful and user-friendly Flutter-based mobile application designed to streamline the communication between tenants and landlords, specifically focusing on managing service and repair requests with efficiency and transparency. 
 
 ---
 
