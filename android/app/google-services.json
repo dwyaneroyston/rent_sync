@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349525678354",
+    "project_id": "rentsync-fa8cb",
+    "storage_bucket": "rentsync-fa8cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349525678354:android:22388dba3640151f843bcb",
+        "android_client_info": {
+          "package_name": "com.example.rent_sync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJIOSwL8cRtoHlARcsXmm9NOKN0NJ7fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
