@@ -24,9 +24,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Colors.white, 
         appBarTheme: const AppBarTheme(
           backgroundColor: Colors.white,
-          foregroundColor: Colors.black, //git pull origin main --allow-unrelated-histories
-git push -u origin main
-
+          foregroundColor: Colors.black, 
           elevation: 0,
         ),
         colorScheme: ColorScheme.fromSeed(
