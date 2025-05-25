@@ -18,10 +18,10 @@ Rent Sync is a Flutter app that connects tenants and landlords for managing serv
 ## Screenshots / Demo
 
 *(Add your app screenshots here)*  
-![App Intro](https://your-image-url.com/tenant-home.png)  
-![Tenant Home](https://your-image-url.com/tenant-home.png)  
-![Service Request](https://your-image-url.com/service-request.png)  
-![Landlord Dashboard](https://your-image-url.com/landlord-dashboard.png)  
+![App Intro](assets\images\rentsync.png)  
+![Tenant Home](assets\demo\tenant_dashboard.png)  
+![Service Request](assets\demo\service_request.png)  
+![Landlord Dashboard](assets\demo\landlord_dashboard.png)  
 
 ---
 
