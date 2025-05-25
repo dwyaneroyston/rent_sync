@@ -1,16 +1,40 @@
-# rent_sync
+# Rent Sync
 
-A new Flutter project.
+Rent Sync is a Flutter app that connects tenants and landlords for managing service and repair requests efficiently. It uses Firebase Authentication and Firestore as the backend.
+
+---
+
+## Features
+
+- Tenant and Landlord sign-up and login (Firebase Auth)  
+- Tenants can submit and track service requests  
+- Landlords can view and manage requests  
+- Real-time updates with Firestore  
+- Profile image upload via Firebase Storage  
+- Supports Android and Web platforms  
+
+---
+
+## Screenshots / Demo
+
+*(Add your app screenshots here)*  
+![App Intro](https://your-image-url.com/tenant-home.png)  
+![Tenant Home](https://your-image-url.com/tenant-home.png)  
+![Service Request](https://your-image-url.com/service-request.png)  
+![Landlord Dashboard](https://your-image-url.com/landlord-dashboard.png)  
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed  
+- Firebase project with Auth and Firestore configured  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/rent_sync.git
+   cd rent_sync

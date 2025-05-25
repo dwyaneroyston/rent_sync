@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rent_sync/auth/signup_page.dart';
 import 'package:rent_sync/role_selection_page.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:rent_sync/roles/landlord/landlord_home_screen.dart';
-import 'package:rent_sync/roles/tenant/tenant_home_screen.dart';
-
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
